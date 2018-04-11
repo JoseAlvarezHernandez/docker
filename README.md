@@ -1,7 +1,7 @@
 # docker
 Docker scripts
 
-#Ver instancias corriendo (php_brain3)
+#Ver instancias corriendo
 sudo docker ps 
 
 ##LEVANTAR
