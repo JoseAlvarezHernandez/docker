@@ -1,13 +1,14 @@
 # docker
 Docker scripts
 
-#Ver instancias corriendo
+# Ver instancias corriendo
+
 sudo docker ps 
 
-#LEVANTAR
+# LEVANTAR
 
 sudo docker run -d {instance}
 
-#Entrar
+# Entrar
 
 sudo docker exec -it {containerId} bash
